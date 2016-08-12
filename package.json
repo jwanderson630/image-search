@@ -9,6 +9,7 @@
     "express": "^3.2.6",
     "goo.gl": "^0.1.4",
     "ipware": "0.0.8",
+    "node-google-image-search": "^1.0.2",
     "short-url": "0.0.1",
     "shorturl": "0.0.3",
     "socket.io": "~0.9.14",
